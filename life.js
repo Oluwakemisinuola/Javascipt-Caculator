@@ -1,9 +1,3 @@
-let fullName = "My name is Oluwakemi Owolabi";
-let height ="I'm about 5'6ft tall";
-let country = "And i am from Nigeria";
-
-
-
-console.log(fullName);
-console.log(height);
-console.log(country);
+alert("My name is Oluwakemi Owolabi");
+alert("I am 5ft and 6inches in height");
+alert("I'm from Nigeria");
